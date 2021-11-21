@@ -6,7 +6,7 @@ Functional rewrite of the galaxy animation at [gps.io](http://gps.io)
 
 ## Basic Usage
 
-```
+```html
 <!-- Have this canvas in your markup -->
 <canvas id="galaxy-canvas"></canvas>
 
